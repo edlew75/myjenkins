@@ -1,2 +1,2 @@
 # myjenkins
-# This is for jenkins free project testing in home lab
+# This is for jenkins freestyle project testing in home lab
